@@ -1,0 +1,38 @@
+.continar{
+    width: 50%; 
+    height: 50vh;
+    margin: 0px auto;
+    background-color: #544F53;
+
+}
+ div { 
+    display: flex;
+    justify-content: space-around;
+ }
+ img{
+    width:200px;
+    height:240px;
+   
+ }
+ .continar h2,p{
+    color: white;
+    font-family: Nunito Sans;
+ }
+ .continar p{
+    font-size: 14px;
+    padding-top:50px ;
+ }
+ h2 , p{
+    position: absolute;
+    margin-top: 250px;
+ }
+ .T{
+    width: 20px;
+    height: 20px;
+    color: white;
+    background-color: #ab1f839d;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    margin-left:-180px;;
+    
+ }
